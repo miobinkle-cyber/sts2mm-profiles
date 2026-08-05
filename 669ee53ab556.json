@@ -2064,26 +2064,9 @@
       "enabled": true,
       "bundle_url": "https://github.com/miobinkle-cyber/sts2mm-profiles/releases/download/bundles/Watcher_v1.5.9_19225527.zip",
       "bundle_sha256": "1922552759eff9775462ec82f7541c35dcc0295a58e187f26cfaab38ff5a8321"
-    },
-    {
-      "mod_version_id": "3319440c-f201-42e1-8fde-b0fd1c1a8c35",
-      "name": "Qu",
-      "version": "v0.1.0",
-      "source": null,
-      "hash": "ac65d916171e0b31cf97d66cc499adaaae6958d17818c3a98f80060777be2e22",
-      "files": [
-        "Qu\\Qu.dll",
-        "Qu\\Qu.json",
-        "Qu\\qu.pck"
-      ],
-      "folder_name": "Qu",
-      "mod_id": "Qu",
-      "enabled": true,
-      "bundle_url": "https://github.com/miobinkle-cyber/sts2mm-profiles/releases/download/bundles/Qu_v0.1.0_05e96773.zip",
-      "bundle_sha256": "05e96773ff6b103335d4305333c64f275bbd3014cb3246f6156bc8b61a6c9e88"
     }
   ],
   "created_at": "2026-08-01T22:11:52.583584Z",
-  "updated_at": "2026-08-03T09:36:05.026653600Z",
+  "updated_at": "2026-08-05T09:42:18.963341100Z",
   "public": false
 }
