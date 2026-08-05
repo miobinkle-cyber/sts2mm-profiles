@@ -2046,27 +2046,9 @@
       "enabled": true,
       "bundle_url": "https://github.com/miobinkle-cyber/sts2mm-profiles/releases/download/bundles/_v1.0.0_2b9ef0b0.zip",
       "bundle_sha256": "2b9ef0b03c8a11ff3ddd0f9b2ec9e69c319735beb82c9d21f53e077be5aecbb2"
-    },
-    {
-      "mod_version_id": "c8fb7a67-0764-4ac9-8341-8cef9b2f0b97",
-      "name": "Unlock All",
-      "version": "0.1.0",
-      "source": null,
-      "hash": "91ce75fca9214dad489aaea68ebbd2fb93f3f9b3e0f173ee2a748807f585e567",
-      "files": [
-        "SlaytheSpire2.unlockAll\\mod_manifest.json",
-        "SlaytheSpire2.unlockAll\\UnlockAllMod.dll",
-        "SlaytheSpire2.unlockAll\\UnlockAllMod.pck",
-        "SlaytheSpire2.unlockAll\\UnlockAllMod.pdb"
-      ],
-      "folder_name": "SlaytheSpire2.unlockAll",
-      "mod_id": "UnlockAllMod",
-      "enabled": true,
-      "bundle_url": "https://github.com/miobinkle-cyber/sts2mm-profiles/releases/download/bundles/Unlock_All_v0.1.0_71379293.zip",
-      "bundle_sha256": "7137929321cc50adf7c8ce797002887c12f9e8e2e7a7e196d0e1a018c946b6c3"
     }
   ],
   "created_at": "2026-08-01T22:11:52.583584Z",
-  "updated_at": "2026-08-05T18:28:08.500436600Z",
+  "updated_at": "2026-08-05T18:30:01.454289100Z",
   "public": false
 }
