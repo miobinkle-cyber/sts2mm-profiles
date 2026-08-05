@@ -22,23 +22,6 @@
       "bundle_sha256": "4333b545694d181e782a39b60cba670afb1946f43b48ecbaa645f172c0ec9305"
     },
     {
-      "mod_version_id": "3e56768c-d0a2-4a9d-b62a-b34be4fe053c",
-      "name": "Corrupted",
-      "version": "v1.1.7",
-      "source": null,
-      "hash": "fff0073595a809b99cee45d592d6f1ebf65263a713a980bdb616d8094da5493a",
-      "files": [
-        "TheCorrupted\\TheCorrupted.dll",
-        "TheCorrupted\\TheCorrupted.json",
-        "TheCorrupted\\TheCorrupted.pck"
-      ],
-      "folder_name": "TheCorrupted",
-      "mod_id": "TheCorrupted",
-      "enabled": true,
-      "bundle_url": "https://github.com/miobinkle-cyber/sts2mm-profiles/releases/download/bundles/Corrupted_v1.1.7_2e5854ff.zip",
-      "bundle_sha256": "2e5854ff6e2948cc0d749e411c4a9b9ad5857f210a110f7be3027623b803a015"
-    },
-    {
       "mod_version_id": "9fb01c9e-583a-48fa-8d1d-459c254b5fbe",
       "name": "Hornet / 大黄蜂",
       "version": "1.2.12(beta)",
@@ -54,60 +37,6 @@
       "enabled": true,
       "bundle_url": "https://github.com/miobinkle-cyber/sts2mm-profiles/releases/download/bundles/Hornet___._v1.2.12.beta._ff56d407.zip",
       "bundle_sha256": "ff56d407c6e28cd5b2f070e219ab29c66ddb0250e617c5cfb21aeaeecb3d5cc9"
-    },
-    {
-      "mod_version_id": "96f1aa1e-6257-4faf-a03b-0164058f31d6",
-      "name": "Prism Shirou",
-      "version": "v0.1.0",
-      "source": null,
-      "hash": "fb1496bca2f354f5585f8902566f84f29ec700e1987f47a80691f934317d962a",
-      "files": [
-        "PrismMod\\PrismMod.dll",
-        "PrismMod\\PrismMod.json",
-        "PrismMod\\PrismMod.pck"
-      ],
-      "folder_name": "PrismMod",
-      "mod_id": "PrismMod",
-      "enabled": true,
-      "bundle_url": "https://github.com/miobinkle-cyber/sts2mm-profiles/releases/download/bundles/Prism_Shirou_v0.1.0_c7ad3089.zip",
-      "bundle_sha256": "c7ad3089419fa172df3f3bc5276e6101f0992652dcd4024836e9920b77bf624f"
-    },
-    {
-      "mod_version_id": "76de2f52-3d09-4d85-8a92-f4437add53b8",
-      "name": "RitsuLib",
-      "version": "0.5.4",
-      "source": null,
-      "hash": "2206c8361bc93c60f118660c0782b08d40fc65ffe77f56e6d7f6c2b9919cc3a3",
-      "files": [
-        "3747602295\\lib\\0.107.1\\compat-target.txt",
-        "3747602295\\lib\\0.107.1\\STS2-RitsuLib.dll",
-        "3747602295\\lib\\0.107.1\\STS2-RitsuLib.pdb",
-        "3747602295\\lib\\0.107.1\\STS2-RitsuLib.xml",
-        "3747602295\\lib\\0.108.0\\compat-target.txt",
-        "3747602295\\lib\\0.108.0\\STS2-RitsuLib.dll",
-        "3747602295\\lib\\0.108.0\\STS2-RitsuLib.pdb",
-        "3747602295\\lib\\0.108.0\\STS2-RitsuLib.xml",
-        "3747602295\\lib\\0.109.0\\compat-target.txt",
-        "3747602295\\lib\\0.109.0\\STS2-RitsuLib.dll",
-        "3747602295\\lib\\0.109.0\\STS2-RitsuLib.pdb",
-        "3747602295\\lib\\0.109.0\\STS2-RitsuLib.xml",
-        "3747602295\\lib\\0.110.0\\compat-target.txt",
-        "3747602295\\lib\\0.110.0\\STS2-RitsuLib.dll",
-        "3747602295\\lib\\0.110.0\\STS2-RitsuLib.pdb",
-        "3747602295\\lib\\0.110.0\\STS2-RitsuLib.xml",
-        "3747602295\\mod_manifest.json",
-        "3747602295\\ritsulib-variants.manifest",
-        "3747602295\\STS2-RitsuLib.dll",
-        "3747602295\\STS2-RitsuLib.Loader.pdb",
-        "3747602295\\viewer\\assets\\index.css",
-        "3747602295\\viewer\\assets\\index.js",
-        "3747602295\\viewer\\index.html"
-      ],
-      "folder_name": "3747602295",
-      "mod_id": "STS2-RitsuLib",
-      "enabled": true,
-      "bundle_url": "https://github.com/miobinkle-cyber/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.5.4_60cb5f7e.zip",
-      "bundle_sha256": "60cb5f7e01565e3a40425c7e054ce5cd405567d79b2b7166a0d01c232a94a57f"
     },
     {
       "mod_version_id": "bfcdde28-ec58-445d-8867-a23cc01cab58",
@@ -2032,23 +1961,6 @@
       "bundle_sha256": "1bdef07eaa4fb1565c049d2dabf1c3c5ed2ccbff65f24dab52cca3002b549a5e"
     },
     {
-      "mod_version_id": "41c9464d-4ca5-40d7-bbaf-187eea5c8006",
-      "name": "Unknown",
-      "version": "v0.0.0",
-      "source": null,
-      "hash": "ff29acfcebe01921d11016dba2567dc9a2527376b7e4e58eee8aac15643fc6af",
-      "files": [
-        "Unknown\\Unknown.dll",
-        "Unknown\\Unknown.json",
-        "Unknown\\Unknown.pck"
-      ],
-      "folder_name": "Unknown",
-      "mod_id": "Unknown",
-      "enabled": true,
-      "bundle_url": "https://github.com/miobinkle-cyber/sts2mm-profiles/releases/download/bundles/Unknown_v0.0.0_5afd0032.zip",
-      "bundle_sha256": "5afd0032fdad62387aef903349fab4b978e49d88e4280705d3b49eb3d45348f1"
-    },
-    {
       "mod_version_id": "2a730c7f-aaf8-4486-b07d-7159f756a5c2",
       "name": "Watcher",
       "version": "1.5.9",
@@ -2064,9 +1976,46 @@
       "enabled": true,
       "bundle_url": "https://github.com/miobinkle-cyber/sts2mm-profiles/releases/download/bundles/Watcher_v1.5.9_19225527.zip",
       "bundle_sha256": "1922552759eff9775462ec82f7541c35dcc0295a58e187f26cfaab38ff5a8321"
+    },
+    {
+      "mod_version_id": "783b4144-f963-41b8-b081-9049a5d6d5f8",
+      "name": "RitsuLib",
+      "version": "0.5.10",
+      "source": null,
+      "hash": "74f70d72c5a9b1d65e25fddbb70274b52b322dd2dcd16879a0f3be539c382250",
+      "files": [
+        "STS2-RitsuLib\\lib\\0.107.1\\compat-target.txt",
+        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\lib\\0.108.0\\compat-target.txt",
+        "STS2-RitsuLib\\lib\\0.108.0\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.108.0\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.108.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\lib\\0.109.0\\compat-target.txt",
+        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\lib\\0.110.0\\compat-target.txt",
+        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\mod_manifest.json",
+        "STS2-RitsuLib\\ritsulib-variants.manifest",
+        "STS2-RitsuLib\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\STS2-RitsuLib.Loader.pdb",
+        "STS2-RitsuLib\\viewer\\assets\\index.css",
+        "STS2-RitsuLib\\viewer\\assets\\index.js",
+        "STS2-RitsuLib\\viewer\\index.html"
+      ],
+      "folder_name": "STS2-RitsuLib",
+      "mod_id": "STS2-RitsuLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/miobinkle-cyber/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.5.10_48e54f4f.zip",
+      "bundle_sha256": "48e54f4f4322a8b67bc9c7f4f49f770727920424b9e5d6be14179ddd88b526b8"
     }
   ],
   "created_at": "2026-08-01T22:11:52.583584Z",
-  "updated_at": "2026-08-05T09:51:36.533822300Z",
+  "updated_at": "2026-08-05T10:16:46.464000900Z",
   "public": false
 }
