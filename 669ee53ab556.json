@@ -5,23 +5,6 @@
   "created_by": "miobinkle-cyber",
   "mods": [
     {
-      "mod_version_id": "27ba624e-f34d-4cdf-99de-a6a0980575e1",
-      "name": "BaseLib",
-      "version": "v3.4.3",
-      "source": null,
-      "hash": "9f9581f4f6b6a2ab0c744bdf73729e10df8ff2c07befbc184b6c65f010932e83",
-      "files": [
-        "BaseLib\\BaseLib.dll",
-        "BaseLib\\BaseLib.json",
-        "BaseLib\\BaseLib.pck"
-      ],
-      "folder_name": "BaseLib",
-      "mod_id": "BaseLib",
-      "enabled": true,
-      "bundle_url": "https://github.com/miobinkle-cyber/sts2mm-profiles/releases/download/bundles/BaseLib_v3.4.3_4333b545.zip",
-      "bundle_sha256": "4333b545694d181e782a39b60cba670afb1946f43b48ecbaa645f172c0ec9305"
-    },
-    {
       "mod_version_id": "9fb01c9e-583a-48fa-8d1d-459c254b5fbe",
       "name": "Hornet / 大黄蜂",
       "version": "1.2.12(beta)",
@@ -2013,9 +1996,60 @@
       "enabled": true,
       "bundle_url": "https://github.com/miobinkle-cyber/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.5.10_48e54f4f.zip",
       "bundle_sha256": "48e54f4f4322a8b67bc9c7f4f49f770727920424b9e5d6be14179ddd88b526b8"
+    },
+    {
+      "mod_version_id": "32fd4bf4-cf73-48c7-afec-44e013a1835e",
+      "name": "The Cursed",
+      "version": "v0.2.8",
+      "source": null,
+      "hash": "01b5b5032fa2bc3c3f643948d78394f1fe47c04e1ed2749dcbdf5b3ccd3b8a49",
+      "files": [
+        "TheCursedMod\\TheCursedMod.dll",
+        "TheCursedMod\\TheCursedMod.json",
+        "TheCursedMod\\TheCursedMod.pck"
+      ],
+      "folder_name": "TheCursedMod",
+      "mod_id": "TheCursedMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/miobinkle-cyber/sts2mm-profiles/releases/download/bundles/The_Cursed_v0.2.8_4828470a.zip",
+      "bundle_sha256": "4828470a7f601978adb25a74ba6738de7924c0a4b8420ab2f0fd944eefdbdfc2"
+    },
+    {
+      "mod_version_id": "60659312-bb5a-4204-8a05-a98c757ccf39",
+      "name": "Flagellant",
+      "version": "0.3.7",
+      "source": null,
+      "hash": "df2ebfd6de5e70555f0e9da0ee84362903eb84c47d5bb3be670a85c9d168aec9",
+      "files": [
+        "Flagellant_0.3.7\\Flagellant.dll",
+        "Flagellant_0.3.7\\Flagellant.json",
+        "Flagellant_0.3.7\\Flagellant.pck"
+      ],
+      "folder_name": "Flagellant_0.3.7",
+      "mod_id": "Flagellant",
+      "enabled": true,
+      "bundle_url": "https://github.com/miobinkle-cyber/sts2mm-profiles/releases/download/bundles/Flagellant_v0.3.7_b1934cec.zip",
+      "bundle_sha256": "b1934cecb6ab5b5f11c8c83ae1f45800a781341a5a88ac911986b6947d6f7c7b"
+    },
+    {
+      "mod_version_id": "47a93fae-19d7-4761-bfea-cdce11406b56",
+      "name": "BaseLib",
+      "version": "v3.3.8",
+      "source": null,
+      "hash": "e92213e9286cb8cb9db42b83735cc9ddc2d642a7c90c67c5350c983d734407a8",
+      "files": [
+        "BaseLib\\BaseLib.dll",
+        "BaseLib\\BaseLib.json",
+        "BaseLib\\BaseLib.pck"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/miobinkle-cyber/sts2mm-profiles/releases/download/bundles/BaseLib_v3.3.8_f89c0b67.zip",
+      "bundle_sha256": "f89c0b676bcd004424885fab9c9737bea7e299b6d3b737a42ea9d8251e054461"
     }
   ],
   "created_at": "2026-08-01T22:11:52.583584Z",
-  "updated_at": "2026-08-05T10:16:46.464000900Z",
+  "updated_at": "2026-08-05T13:12:09.248232300Z",
   "public": false
 }
