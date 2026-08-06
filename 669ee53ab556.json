@@ -2030,9 +2030,26 @@
       "enabled": true,
       "bundle_url": "https://github.com/miobinkle-cyber/sts2mm-profiles/releases/download/bundles/BaseLib_v3.4.3_4333b545.zip",
       "bundle_sha256": "4333b545694d181e782a39b60cba670afb1946f43b48ecbaa645f172c0ec9305"
+    },
+    {
+      "mod_version_id": "32fd4bf4-cf73-48c7-afec-44e013a1835e",
+      "name": "The Cursed",
+      "version": "v0.2.8",
+      "source": null,
+      "hash": "01b5b5032fa2bc3c3f643948d78394f1fe47c04e1ed2749dcbdf5b3ccd3b8a49",
+      "files": [
+        "TheCursedMod\\TheCursedMod.dll",
+        "TheCursedMod\\TheCursedMod.json",
+        "TheCursedMod\\TheCursedMod.pck"
+      ],
+      "folder_name": "TheCursedMod",
+      "mod_id": "TheCursedMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/miobinkle-cyber/sts2mm-profiles/releases/download/bundles/The_Cursed_v0.2.8_4828470a.zip",
+      "bundle_sha256": "4828470a7f601978adb25a74ba6738de7924c0a4b8420ab2f0fd944eefdbdfc2"
     }
   ],
   "created_at": "2026-08-01T22:11:52.583584Z",
-  "updated_at": "2026-08-05T18:38:54.343559200Z",
+  "updated_at": "2026-08-05T20:05:15.347938200Z",
   "public": false
 }
