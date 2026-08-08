@@ -2032,24 +2032,41 @@
       "bundle_sha256": "4333b545694d181e782a39b60cba670afb1946f43b48ecbaa645f172c0ec9305"
     },
     {
-      "mod_version_id": "32fd4bf4-cf73-48c7-afec-44e013a1835e",
-      "name": "The Cursed",
-      "version": "v0.2.8",
+      "mod_version_id": "288255dc-f0ad-49bf-9fe5-9192f9a84c51",
+      "name": "Overlord Laharl",
+      "version": "v1.0.1",
       "source": null,
-      "hash": "01b5b5032fa2bc3c3f643948d78394f1fe47c04e1ed2749dcbdf5b3ccd3b8a49",
+      "hash": "975576a4fb72cbf5695b48d17b3f262e387bb3cfc0a17f2d47a92983d2ad3992",
       "files": [
-        "TheCursedMod\\TheCursedMod.dll",
-        "TheCursedMod\\TheCursedMod.json",
-        "TheCursedMod\\TheCursedMod.pck"
+        "Laharl\\Laharl.dll",
+        "Laharl\\Laharl.json",
+        "Laharl\\Laharl.pck"
       ],
-      "folder_name": "TheCursedMod",
-      "mod_id": "TheCursedMod",
+      "folder_name": "Laharl",
+      "mod_id": "Laharl",
       "enabled": true,
-      "bundle_url": "https://github.com/miobinkle-cyber/sts2mm-profiles/releases/download/bundles/The_Cursed_v0.2.8_4828470a.zip",
-      "bundle_sha256": "4828470a7f601978adb25a74ba6738de7924c0a4b8420ab2f0fd944eefdbdfc2"
+      "bundle_url": "https://github.com/miobinkle-cyber/sts2mm-profiles/releases/download/bundles/Overlord_Laharl_v1.0.1_c71145ba.zip",
+      "bundle_sha256": "c71145ba07494c0905ec7ebd44faa22450ff969b29028dc44c50da6643df6785"
+    },
+    {
+      "mod_version_id": "5ba60c6d-ba32-431a-b52d-789b7597c455",
+      "name": "Cloud",
+      "version": "v1.0.7",
+      "source": null,
+      "hash": "b3f752e3acbf15cae0d890fd66a532337e02d9e09a47e326170eb2c2d8d1622b",
+      "files": [
+        "Cloud\\Cloud.dll",
+        "Cloud\\Cloud.json",
+        "Cloud\\Cloud.pck"
+      ],
+      "folder_name": "Cloud",
+      "mod_id": "Cloud",
+      "enabled": true,
+      "bundle_url": "https://github.com/miobinkle-cyber/sts2mm-profiles/releases/download/bundles/Cloud_v1.0.7_03acc76c.zip",
+      "bundle_sha256": "03acc76c48b549fd1022a5b285944dabd2b02cce19c7a58c8f322e8b6aa5b52d"
     }
   ],
   "created_at": "2026-08-01T22:11:52.583584Z",
-  "updated_at": "2026-08-05T20:05:15.347938200Z",
+  "updated_at": "2026-08-08T11:14:21.697228Z",
   "public": false
 }
